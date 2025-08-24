@@ -27,23 +27,6 @@ The GitHub Actions pipeline includes:
 
 ---
 
-## 📸 Screenshots
-> Replace placeholders with actual screenshots once deployed.
-
-- ![Terraform Init Screenshot](./screenshots/terraform-init.png)  
-- ![Terraform Plan Screenshot](./screenshots/terraform-plan.png)  
-- ![AWS Deployed Resources](./screenshots/aws-deployed.png)  
-
-
-
----
-
-## 📚 References
-- [Terraform Documentation](https://developer.hashicorp.com/terraform/docs)  
-- [GitHub Actions Docs](https://docs.github.com/en/actions)  
-- [AWS Free Tier](https://aws.amazon.com/free/)  
-
----
 
 ## 👨‍💻 Author
 - **Ishan Sinha**  
